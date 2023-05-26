@@ -40,3 +40,6 @@ def prepare_book(path: str) -> None:
 
 # Вызов функции prepare_book для подготовки книги из текстового файла
 prepare_book(BOOK_PATH)
+
+
+print('123123123123')
